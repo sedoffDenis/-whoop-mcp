@@ -1,0 +1,14 @@
+{
+  "name": "denis-whoop-mcp-railway",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "whoop-mcp-unofficial --http"
+  },
+  "dependencies": {
+    "whoop-mcp-unofficial": "0.6.6"
+  }
+}
